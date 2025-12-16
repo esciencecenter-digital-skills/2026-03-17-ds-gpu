@@ -20,7 +20,7 @@
 
       {% comment %} Select what logo to display. {% endcomment %}
       <a href="{{ site.esc_site }}" class="pull-left">
-        <img class="navbar-logo" src="{{ relative_root_path }}{% link /assets/img/netherlands-escience-center-logo-RGB.svg %}" alt="The Netherlands eScience Center logo" />
+        <img class="navbar-logo" src="{% link /assets/img/netherlands-escience-center-logo-RGB.svg %}" alt="The Netherlands eScience Center logo" />
       </a>
       {% if info.carpentry == "swc" %}
       <a href="{{ site.swc_site }}" class="pull-left">
