@@ -611,7 +611,7 @@ Takes ~700 us.
 
 - How common is it to have a GPU that will speed up the code? Will it usually work on an average univeristy laptop/desktop, only a dedicated one, or does it only make sense if you have access to a mainframe or supercomputer?
     - Answer: GPUs on laptops or workstations can already speed-up the execution time of your code, even if they are not as capable as the one that we are using today on Snellius. Obviously the larger gains you get by using supercomputers.
--can we get access to your latest notebook Allessio? The introduciontoCUDA.ipynb?
+- Can we get access to your latest notebook Allessio? The introduciontoCUDA.ipynb?
     - Answer: everything in the notebook is also in this document. 
 
 ## 📚 Resources
